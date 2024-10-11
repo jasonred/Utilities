@@ -35,3 +35,12 @@ public class Program
         }
     }
 }
+```
+
+### Contributing
+Feel free to submit pull requests to improve the codebase. Any contributions are welcome.
+
+### License
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/jasonred/Utilities/blob/main/LICENSE) file for more information.
+
+Adapt it as you see fit! The example provided should give a good foundation.
